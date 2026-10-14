@@ -1,6 +1,6 @@
-Hello, I'm a 22 years old fullstack web developer from the south side of Brazil.
+Hi, I’m a 22-year-old fullstack web developer from southern Brazil.
 
-I'm currently working with TypeScript, Next.js, NestJS and PostgreSQL, but I also know something about other node frameworks, python, shell script and workflow automations with n8n.
+I work mainly with TypeScript, Next.js, NestJS, and PostgreSQL. I also have experience with other Node frameworks, Python, ASP.NET, shell scripting, Linux and AI-driven development.
 
 ## My main stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
