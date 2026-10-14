@@ -9,4 +9,4 @@ I work mainly with TypeScript, Next.js, NestJS, and PostgreSQL. I also have expe
 ![Prisma ORM](https://img.shields.io/badge/Prisma-000000?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3178C6?style=flat&logo=postgresql&logoColor=white)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=trickgirardi&layout=compact&langs_count=8&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=trickgirardi&layout=compact&langs_count=8&theme=dark)](https://github.com/stats-organization/github-stats-extended)
